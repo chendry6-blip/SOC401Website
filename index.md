@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Uknown.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Unknown.png">
 
 
 # Project Name
