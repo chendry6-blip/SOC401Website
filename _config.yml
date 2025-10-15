@@ -8,7 +8,7 @@ permalink:        pretty
 title:            DSSG Project Name
 tagline:          ''
 description:      'A 2022 Data Science for Social Good summer fellowship project at the University of Washington' 
-url:              "https://chendry6.github.io"
+url:              "https://chendry6-blip.github.io"
 baseurl:          "/SOC401Website/"
 
 
@@ -18,4 +18,4 @@ paginate:         5
 version:          0.0.0
 
 github:
-  repo:           https://github.com/chendry6/SOC401Website/
+  repo:           https://github.com/chendry6-blip/SOC401Website/
