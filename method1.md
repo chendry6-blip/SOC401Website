@@ -2,6 +2,8 @@
 layout: page
 title: Background
 ---
+# Background
+
 Plastic pollution exacerbates climate change, poses human health risks through the ingestion of microplastics and chemical exposure, and has significant environmental impacts on wildlife, animal habitats, and ecosystems. The OECD reports that, without significant change, greenhouse gas emissions associated with plastic products are expected to double by 2060, and the World Economic Forum projects that, unless there is some intervention, the global plastic industry will account for 20% of total oil consumption and up to 15% of global carbon emissions by 2050 (EPA, 2025). In the US, of the 40 to 48 million tons of plastic waste produced annually, it is estimated that only 5% to 9% is actually recycled (World Economic Forum, 2022). The vast majority of it is sent to landfills, incinerated, or worse, released into the environment.
 
 Implementing AI-driven waste monitoring systems could reduce plastic pollution and increase the amount of plastic waste that is actually recycled. The AI monitoring systems would help effectively sort plastic waste with higher accuracy and speed, reducing contamination and increasing the quality of recycled materials. Consumers and households, state and local governments, waste management companies and recycling processors, AI and technology providers, and packaging and consumer goods manufacturers are the primary stakeholders in this issue. 
