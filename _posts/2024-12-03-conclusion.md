@@ -35,22 +35,22 @@ Without state guidance or funding, the promise of AI-driven waste reduction rema
 
 State-level policy and the incorporation of AI sorting tools are **necessary to make a meaningful difference**. States can provide:
 
-### 📋 Funding Incentives
+### Funding Incentives
 - Make technology accessible to all municipalities
 - Prioritize underserved communities
 - Remove financial barriers to implementation
 
-### 📊 Procurement Standards
+### Procurement Standards
 - Ensure consistent technology deployment
 - Set minimum performance requirements
 - Create competitive marketplace for AI providers
 
-### 🔍 Data-Sharing Requirements
+### Data-Sharing Requirements
 - Enable statewide performance tracking
 - Identify successful strategies
 - Guide evidence-based policy decisions
 
-### ⚖️ Ethical Oversight
+### Ethical Oversight
 - Ensure AI tools are used effectively, not just experimentally
 - Create regulated and transparent systems
 - Support statewide sustainability targets
@@ -112,11 +112,11 @@ The city-level results demonstrate that **AI sorting reduces contamination and i
 
 **Policy intervention would solidify efforts that have already shown success.** By implementing statewide AI funding programs, data standardization, and public-private partnerships, states can:
 
-✅ Scale proven technology to all communities  
-✅ Ensure equitable access regardless of municipality size  
-✅ Create accountability through data tracking  
-✅ Reduce plastic pollution at a meaningful scale  
-✅ Combat climate change through improved recycling  
+ Scale proven technology to all communities  
+ Ensure equitable access regardless of municipality size  
+ Create accountability through data tracking  
+ Reduce plastic pollution at a meaningful scale  
+ Combat climate change through improved recycling  
 
 <div style="background: #e8f5e9; padding: 2rem; border-radius: 8px; text-align: center; margin: 3rem 0;">
   <h2 style="color: #2c5f2d; margin-top: 0;">The technology exists. The results are proven. Now we need the policy.</h2>
