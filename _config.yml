@@ -5,7 +5,6 @@ permalink:        pretty
 # Setup
 title:            AI Solutions for Plastic Pollution
 tagline:          'Reducing Waste Through Technology'
-description:      'A SOC 401 policy analysis examining how AI-driven waste monitoring can transform recycling systems and reduce plastic pollution'
 url:              "https://chendry6-blip.github.io"
 baseurl:          "/SOC401Website/"
 paginate:         5
