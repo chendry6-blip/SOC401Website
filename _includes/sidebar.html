@@ -11,23 +11,14 @@
     </div>
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/motivation' | prepend: site.baseurl }}">The Problem</a>
-      
-      <!-- Solutions/Methods dropdown -->
-      <button class="dropdown-btn">AI Solutions
-          <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-container">
-          <a href="{{ '/method1' | prepend: site.baseurl }}">Vision Sorting Technology</a><br/>
-          <a href="{{ '/method2' | prepend: site.baseurl }}">Waste Monitoring Systems</a>
-      </div>
-      
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/results' | prepend: site.baseurl }}">Research & Data</a>
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/about' | prepend: site.baseurl }}">About This Project</a>
-      
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/case-studies' | prepend: site.baseurl }}">Case Studies</a>
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/data' | prepend: site.baseurl }}">Data & Analysis</a>
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/policy' | prepend: site.baseurl }}">Policy Options</a>
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/conclusion' | prepend: site.baseurl }}">Conclusion</a>
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/about' | prepend: site.baseurl }}">About</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
       <span class="sidebar-nav-item">v{{ site.version }}</span>
     </nav>
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }} Chloe Hendry. All rights reserved.</p>
   </div>
 </div>
