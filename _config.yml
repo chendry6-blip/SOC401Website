@@ -1,21 +1,16 @@
-ry6# Dependencies
-
+# Dependencies
 # Permalinks
 permalink:        pretty
 
-
 # Setup
-title:            DSSG Project Name
-tagline:          ''
-description:      'A 2022 Data Science for Social Good summer fellowship project at the University of Washington' 
+title:            AI Solutions for Plastic Pollution
+tagline:          'Reducing Waste Through Technology'
+description:      'A SOC 401 policy analysis examining how AI-driven waste monitoring can transform recycling systems and reduce plastic pollution'
 url:              "https://chendry6-blip.github.io"
 baseurl:          "/SOC401Website/"
-
-
 paginate:         5
 
 # Custom vars
-version:          0.0.0
-
+version:          1.0.0
 github:
   repo:           https://github.com/chendry6-blip/SOC401Website/
