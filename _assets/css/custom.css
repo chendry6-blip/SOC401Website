@@ -1,0 +1,125 @@
+/* Green and Blue Color Theme for Recycling Project */
+
+/* Sidebar background - Dark Green */
+.sidebar {
+  background-color: #1b5e20 !important; /* Dark forest green */
+}
+
+/* Sidebar title hover - Light Blue */
+.sidebar-about h1 a:hover,
+.sidebar-about h1 a:focus {
+  color: #4fc3f7 !important; /* Light blue */
+}
+
+/* Sidebar navigation links - White text */
+.sidebar-nav-item {
+  color: rgba(255, 255, 255, 0.8) !important;
+}
+
+/* Active/hover sidebar links - Light Blue */
+.sidebar-nav-item:hover,
+.sidebar-nav-item:focus,
+.sidebar-nav-item.active {
+  color: #81c784 !important; /* Light green */
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Main content links - Green */
+.content a {
+  color: #2e7d32 !important; /* Medium green */
+}
+
+.content a:hover,
+.content a:focus {
+  color: #1b5e20 !important; /* Dark green */
+}
+
+/* Post titles - Dark Green */
+.post-title,
+.post-title a {
+  color: #1b5e20 !important;
+}
+
+/* Headings - Green/Blue alternating */
+h1 {
+  color: #1b5e20 !important; /* Dark green */
+}
+
+h2 {
+  color: #0277bd !important; /* Blue */
+  border-bottom: 2px solid #81c784; /* Light green underline */
+  padding-bottom: 0.5rem;
+}
+
+h3 {
+  color: #2e7d32 !important; /* Medium green */
+}
+
+/* Buttons and Call-to-Actions - Green */
+.content a[style*="background"] {
+  background: #2e7d32 !important;
+  border: none !important;
+}
+
+.content a[style*="background"]:hover {
+  background: #1b5e20 !important;
+}
+
+/* Blockquotes - Light Blue background */
+blockquote {
+  border-left: 4px solid #0277bd !important;
+  background-color: #e1f5fe !important;
+  padding: 1rem !important;
+}
+
+/* Code blocks - Green accent */
+code {
+  background-color: #e8f5e9 !important;
+  color: #1b5e20 !important;
+}
+
+/* Tables - Alternating Green/Blue */
+table thead {
+  background-color: #2e7d32 !important;
+  color: white !important;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #e8f5e9 !important;
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: #e1f5fe !important;
+}
+
+/* Pagination - Green */
+.pagination-item {
+  border: 1px solid #81c784 !important;
+  color: #2e7d32 !important;
+}
+
+.pagination-item:hover {
+  background-color: #e8f5e9 !important;
+}
+
+/* Info boxes - Green */
+div[style*="background: #e8f5e9"] {
+  background: #e8f5e9 !important;
+  border-left: 4px solid #2e7d32 !important;
+}
+
+/* Info boxes - Blue */
+div[style*="background: #e3f2fd"] {
+  background: #e1f5fe !important;
+  border-left: 4px solid #0277bd !important;
+}
+
+/* Recycling theme accents */
+.sidebar::before {
+  content: "♻️";
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 3rem;
+  opacity: 0.1;
+}
