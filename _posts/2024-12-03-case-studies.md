@@ -7,7 +7,7 @@ permalink: /case-studies/
 <div style="margin: 2rem 0;">
   <img
     src="{{ site.baseurl }}/assets/Unknown-2.jpeg"
-    alt="AI Solutions for Tackling Plastic Pollution in Sustainable Construction"
+    alt="AI Sorting Robot"
     style="display:block; width:100%; max-width:1200px; margin:0 auto; height:auto; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15);">
 </div>
 
