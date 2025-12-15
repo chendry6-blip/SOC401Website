@@ -4,11 +4,11 @@ title: Case Studies
 permalink: /case-studies/
 ---
 
-<div style="text-align: center; margin: 2rem auto; max-width: 900px;">
+<div style="margin: 2rem 0;">
   <img
     src="{{ site.baseurl }}/assets/Unknown-2.jpeg"
     alt="AI Solutions for Tackling Plastic Pollution in Sustainable Construction"
-    style="display:block; margin:0 auto; max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+    style="display:block; width:100%; max-width:1200px; margin:0 auto; height:auto; border-radius:8px; box-shadow:0 6px 10px rgba(0,0,0,0.15);">
 </div>
 
 To understand how AI is currently being applied to recycling and waste management, this section examines recent initiatives in Centerville, Ohio, and San Francisco, California, as well as companies like AMP Robotics. These examples reveal that local governments and private companies are taking steps toward addressing this issue with AI technology.
