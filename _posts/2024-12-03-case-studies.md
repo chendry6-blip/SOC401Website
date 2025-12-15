@@ -4,8 +4,11 @@ title: Case Studies
 permalink: /case-studies/
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="{{ site.baseurl }}assets/plastic-ai.jpg" alt="AI in Recycling" style="max-width: 100%; height: auto; border-radius: 8px;">
+<div style="text-align: center; margin: 2rem auto; max-width: 900px;">
+  <img
+    src="{{ site.baseurl }}/assets/Unknown-2.jpeg"
+    alt="AI Solutions for Tackling Plastic Pollution in Sustainable Construction"
+    style="display:block; margin:0 auto; max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
 To understand how AI is currently being applied to recycling and waste management, this section examines recent initiatives in Centerville, Ohio, and San Francisco, California, as well as companies like AMP Robotics. These examples reveal that local governments and private companies are taking steps toward addressing this issue with AI technology.
@@ -57,10 +60,6 @@ This demonstrates how large urban areas can leverage AI as both an education and
 <div style="background: #e3f2fd; padding: 1.5rem; border-left: 4px solid #1976d2; margin: 2rem 0;">
   <strong>Challenge:</strong> High labor costs, inefficiency in traditional facilities, difficulty sorting mixed waste streams<br>
   <strong>Solution:</strong> AI platform with cameras and robotic sorting arms
-</div>
-
-<div style="text-align: center; margin: 2rem 0;">
-  <img src="https://raw.githubusercontent.com/chendry6-blip/SOC401Website/main/assets/plastic-ai.jpg" alt="AMP Robotics AI Technology" style="max-width: 600px; width: 100%; border-radius: 8px;">
 </div>
 
 AMP Robotics developed an AI platform that utilizes cameras to scan mixed waste streams and identify materials based on visual cues such as shape and color, enabling physical sorting and placement on corresponding conveyor belts.
