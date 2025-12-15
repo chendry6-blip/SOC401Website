@@ -5,7 +5,10 @@ title: Home
 
 <div class="post">
   <div style="text-align: center; margin: 2rem 0;">
-    <img src="{{ site.baseurl }}assets/plastic-ai.jpg" alt="AI Solutions for Plastic Pollution" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img
+  src="{{ site.baseurl }}/assets/plastic-ai.jpg"
+  alt="AI Solutions for Plastic Pollution"
+  style="display:block; margin:2rem auto; max-width:800px; width:100%; border-radius:8px;">
   </div>
 
   <div style="text-align: center; margin: 2rem 0;">
@@ -31,8 +34,6 @@ title: Home
       <img src="{{ site.baseurl }}assets/plastic-footprint.jpg" alt="Reduce Plastic Footprint" style="max-width: 100%; border-radius: 8px;">
     </div>
     <div style="text-align: center;">
-      <img src="{{ site.baseurl }}assets/recycling-earth.jpg" alt="Recycling for Earth" style="max-width: 100%; border-radius: 8px;">
-    </div>
   </div>
 
   <hr>
