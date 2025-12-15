@@ -1,11 +1,5 @@
 ---
-layout: post
-title: Case Studies
-permalink: /case-studies/
----
-
----
-layout: post
+layout: page
 title: Case Studies
 permalink: /case-studies/
 ---
