@@ -4,10 +4,6 @@ title: Conclusion
 permalink: /conclusion/
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="https://raw.githubusercontent.com/chendry6-blip/SOC401Website/main/assets/recycling-earth.jpg" alt="Sustainable Future" style="max-width: 600px; width: 100%; border-radius: 8px;">
-</div>
-
 ## The Path Forward
 
 The case studies examined in this project demonstrate that efforts are moving the United States in the right direction, with reports of improved costs, increased recycling sorting, and enhanced efficiency. However, **these efforts are fragmented and have limited impact**, primarily benefiting local communities through select cities via private contracts or pilot projects.
